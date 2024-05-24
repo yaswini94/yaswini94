@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yaswini Modupalli @yaswini94
-- 👀 I’m interested in full stack development using MERN stack and MEAN stack
+- 👀 I’m interested in full stack development using MERN(MongoDB, Express, React, NodeJS) stack and MEAN(MongoDB, Express, Angular, NodeJS) stack
 - 🌱 I’m currently learning python
 - 📫 How to reach me yaswinimodupalli94@gmail.com
 - 😄 Pronouns: She/Her
